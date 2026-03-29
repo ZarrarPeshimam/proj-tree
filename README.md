@@ -1,4 +1,4 @@
-# 🌳 Proj-Tree CLI (Local Script)
+# Proj-Tree CLI (Local Script)
 
 A simple Node.js script to generate a clean **project folder structure** directly from your project root — with support for **ignore rules**, **file inclusion**, and **Markdown export**.
 
